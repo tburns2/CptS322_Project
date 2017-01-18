@@ -2,11 +2,15 @@
 Cpts 322 Project 
 
 Contact : Taryn Burns 
-       EECS usr: tburns2
+
+Team Name : 
+Project Topic: 
+Project Repository 
        
-Team 
-   Taryn Burns     tburns2 
-   Emily Clemens
-   Eric Hjort
-   Jake Boogen
-   Wai Fong (Ryan)
+              Names                 EECS Account
+              Taryn Burns             tburns2 
+              Emily Clemens
+Team          Eric Hjort
+Members       Jake Boogen
+              Wai Fong (Ryan)
+   
